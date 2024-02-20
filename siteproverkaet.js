@@ -19335,7 +19335,7 @@ const U_ = ({id: e, name: t, amount: n, img: r, isLoser: o}) => G.jsx("div", {
                     }), G.jsx(Sg.Item, {
                         children: G.jsx("img", {
                             className: "d-block",
-                            src: "https://media.discordapp.net/attachments/863770473968304128/1202540269686489098/ETWUI.png,
+                            src: "https://media.discordapp.net/attachments/863770473968304128/1202540269686489098/ETWUI.png",
                             alt: "Second slide"
                         })
                     })]
