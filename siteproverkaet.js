@@ -15791,7 +15791,7 @@ Rw.formToJSON = e => qb(jb.isHTMLForm(e) ? new FormData(e) : e),
 Rw.HttpStatusCode = Ew,
 Rw.default = Rw;
 const kw = Rw.create({
-    baseURL: "https://ggvp.gamestores.app/api",
+    baseURL: "https://ggvp.gamestores.app",
     withCredentials: !0
 });
 kw.interceptors.request.use((e => e)),
